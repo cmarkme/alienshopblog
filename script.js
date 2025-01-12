@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       title: "The Role of Arbiters in the Alien Worlds Worker Proposal System",
       description: "Learn how Arbiters enhance project continuity within the Alien Worlds Worker Proposal System.",
-      image: "image1.jpg",
+      image: "https://i.imgur.com/SlqdLqC.jpeg",
       link: "https://example.com/blog-post-1",
     },
     {
