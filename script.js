@@ -12,13 +12,13 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       title: "Navigating Worker Proposals with Galactic Hubs Co-Funding",
       description: "Enhance your project with Galactic Hubs Co-Funding for added benefits and support.",
-      image: "image2.jpg",
+      image: "https://i.imgur.com/PCjNgoV.jpeg",
       link: "https://example.com/blog-post-2",
     },
     {
       title: "Becoming a Union Worker",
       description: "Unlock support and shape Alien Worlds—become a Union Worker today!",
-      image: "image3.jpg",
+      image: "https://i.imgur.com/TkQM4Ji.jpeg",
       link: "https://example.com/blog-post-3",
     },
   ];
